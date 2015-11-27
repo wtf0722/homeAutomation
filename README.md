@@ -1,11 +1,11 @@
 # homeAutomation
 
 Android
-	Crosswalk for android packaging
-	HTML, CSS, AngularJS, Bootstrap
+-Crosswalk for android packaging
+-HTML, CSS, AngularJS, Bootstrap
 
 Raspberry pi
-	nodeJS
+-nodeJS
 
 Heroku
-	nodeJS (middle man)
+-nodeJS (middle man)
